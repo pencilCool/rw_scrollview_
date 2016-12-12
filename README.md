@@ -1,7 +1,5 @@
+- [教程链接](https://www.raywenderlich.com/122139/uiscrollview-tutorial)
 加了一个scrollview之后就能滚动看全照片啦。
-
-
-
 如果你想让图片fit 设备。或者想放大缩小图片
 
 添加属性：
